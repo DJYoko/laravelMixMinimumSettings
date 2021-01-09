@@ -1,6 +1,6 @@
 # laravelMixMinimumSettings
 
-minimum settings of laravel-mix
+minimum settings of Laravel Mix
 
 ## first step
 
